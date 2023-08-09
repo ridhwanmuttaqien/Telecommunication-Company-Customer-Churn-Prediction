@@ -1,0 +1,11 @@
+,Number of Referrals,Tenure in Months,Offer,Internet Service,Contract,Payment Method,Total Charges,Total Revenue,Customer Status
+0,10,71,None,Yes,One Year,Bank Withdrawal,5012.1,5817.95,0
+1,0,27,Offer C,Yes,Month-to-Month,Bank Withdrawal,2093.4,3134.35,0
+2,0,29,None,No,Two Year,Credit Card,554.25,990.99,0
+3,0,23,None,Yes,Two Year,Credit Card,1835.3,2020.45,0
+4,9,60,Offer B,Yes,One Year,Bank Withdrawal,5610.25,8454.25,1
+5,0,54,Offer B,Yes,Two Year,Credit Card,2424.05,2514.05,0
+6,1,12,None,Yes,Month-to-Month,Bank Withdrawal,1218.55,1800.55,1
+7,0,8,None,Yes,Month-to-Month,Bank Withdrawal,713.6,1025.68,0
+8,8,1,None,Yes,Month-to-Month,Credit Card,55.3,91.99,0
+9,1,1,None,Yes,Month-to-Month,Bank Withdrawal,70.0,108.8,1
